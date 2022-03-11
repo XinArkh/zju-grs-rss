@@ -124,7 +124,7 @@ if __name__ == '__main__':
                         type=str, default=os.path.dirname(os.path.abspath(__file__)))
     args = parser.parse_args()
 
-    xml_path = os.path.join(args.output, '../zju-grs.xml')
+    xml_path = os.path.join(args.output, 'zju-grs.xml')
     data_storage = os.path.join(args.database, 'data_storage.pkl')
     log_path = os.path.join(args.log, 'logfile.txt')
     
