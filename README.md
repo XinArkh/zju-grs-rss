@@ -1,5 +1,9 @@
 # zju-grs-rss: An RSS feed generator for Graduate School, ZJU
 
+**UPDATE**: `rss-engine` 经过后续迭代已重新发布，原来的 [zju-me-rss](https://github.com/XinArkh/zju-me-rss) 仓库更名为 [rss-engine](https://github.com/XinArkh/rss-engine)，托管最新的代码，`zju-me` 和 `zju-grs` 均作为示例脚本存放在其中，请直接前往[rss-engine](https://github.com/XinArkh/rss-engine) 仓库查看使用。
+
+---
+
 本项目用于定时生成并发布[浙江大学研究生院](http://www.grs.zju.edu.cn/)的新闻公告 RSS 源。生成的 RSS 源发布在 GitHub Pages 的子页面，可以通过一般的 RSS 阅读器订阅。
 
 与另一个项目 [zju-me-rss](https://github.com/XinArkh/zju-me-rss) 相同，本项目的建立基于自制的 `rss_engine` 基础框架。在此框架下，可以通过简单的编辑实现自定义 RSS 源的快速搭建。
