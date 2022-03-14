@@ -1,6 +1,6 @@
 # zju-grs-rss: An RSS feed generator for Graduate School, ZJU
 
-**UPDATE**: `rss-engine` 经过后续迭代已重新发布，原来的 [zju-me-rss](https://github.com/XinArkh/zju-me-rss) 仓库更名为 [rss-engine](https://github.com/XinArkh/rss-engine)，托管最新的代码，`zju-me` 和 `zju-grs` 均作为示例脚本存放在其中，请直接前往[rss-engine](https://github.com/XinArkh/rss-engine) 仓库查看使用。
+**UPDATE**: `rss-engine` 经过后续迭代已重新发布，原来的 [zju-me-rss](https://github.com/XinArkh/zju-me-rss) 仓库更名为 [rss-engine](https://github.com/XinArkh/rss-engine)，托管最新的代码，`zju-me` 和 `zju-grs` 均作为示例脚本存放在其中，请直接前往 [rss-engine](https://github.com/XinArkh/rss-engine) 仓库查看使用。
 
 ---
 
